@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "WvW2sed4aeyUy7XuSDdfl1Trj+sj8DfJpDXEoDPJPZ9C19uQ55uyZQJpKTcp02kPPM0LA2mKdA0s5iUupHXE8w==",
+  "success": true,
+  "projectFilePath": "A:\\WebApi\\WebApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\j_mos\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.0-preview.8.20407.4\\microsoft.entityframeworkcore.5.0.0-preview.8.20407.4.nupkg.sha512",
+    "C:\\Users\\j_mos\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.0-preview.8.20407.4\\microsoft.entityframeworkcore.abstractions.5.0.0-preview.8.20407.4.nupkg.sha512",
+    "C:\\Users\\j_mos\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\5.0.0-preview.8.20407.4\\microsoft.entityframeworkcore.analyzers.5.0.0-preview.8.20407.4.nupkg.sha512",
+    "C:\\Users\\j_mos\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\5.0.0-preview.8.20407.4\\microsoft.entityframeworkcore.inmemory.5.0.0-preview.8.20407.4.nupkg.sha512",
+    "C:\\Users\\j_mos\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\5.0.0-preview.8.20407.11\\microsoft.extensions.caching.abstractions.5.0.0-preview.8.20407.11.nupkg.sha512",
+    "C:\\Users\\j_mos\\.nuget\\packages\\microsoft.extensions.caching.memory\\5.0.0-preview.8.20407.11\\microsoft.extensions.caching.memory.5.0.0-preview.8.20407.11.nupkg.sha512",
+    "C:\\Users\\j_mos\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.0-preview.8.20407.11\\microsoft.extensions.dependencyinjection.5.0.0-preview.8.20407.11.nupkg.sha512",
+    "C:\\Users\\j_mos\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0-preview.8.20407.11\\microsoft.extensions.dependencyinjection.abstractions.5.0.0-preview.8.20407.11.nupkg.sha512",
+    "C:\\Users\\j_mos\\.nuget\\packages\\microsoft.extensions.logging\\5.0.0-preview.8.20407.11\\microsoft.extensions.logging.5.0.0-preview.8.20407.11.nupkg.sha512",
+    "C:\\Users\\j_mos\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0-preview.8.20407.11\\microsoft.extensions.logging.abstractions.5.0.0-preview.8.20407.11.nupkg.sha512",
+    "C:\\Users\\j_mos\\.nuget\\packages\\microsoft.extensions.options\\5.0.0-preview.8.20407.11\\microsoft.extensions.options.5.0.0-preview.8.20407.11.nupkg.sha512",
+    "C:\\Users\\j_mos\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0-preview.8.20407.11\\microsoft.extensions.primitives.5.0.0-preview.8.20407.11.nupkg.sha512",
+    "C:\\Users\\j_mos\\.nuget\\packages\\system.collections.immutable\\5.0.0-preview.8.20407.11\\system.collections.immutable.5.0.0-preview.8.20407.11.nupkg.sha512",
+    "C:\\Users\\j_mos\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0-preview.8.20407.11\\system.componentmodel.annotations.5.0.0-preview.8.20407.11.nupkg.sha512",
+    "C:\\Users\\j_mos\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.0-preview.8.20407.11\\system.diagnostics.diagnosticsource.5.0.0-preview.8.20407.11.nupkg.sha512",
+    "C:\\Users\\j_mos\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0-preview.8.20407.11\\system.runtime.compilerservices.unsafe.5.0.0-preview.8.20407.11.nupkg.sha512"
+  ],
+  "logs": []
+}
